@@ -4,8 +4,6 @@ An AI-powered real-time detection system that identifies **Gender**, **Emotion**
 
 ---
 
----
-
 # ⚙️ Installation
 
 ## 1️⃣ Clone Repository
